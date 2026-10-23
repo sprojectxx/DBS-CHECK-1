@@ -1,0 +1,8 @@
+{
+  "name": "dbs-express-scaffold",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": { "nodemailer": "^10.2.1" }
+}
