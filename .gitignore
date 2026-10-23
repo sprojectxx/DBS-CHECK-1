@@ -19,3 +19,5 @@ Thumbs.db
 # Local build output
 dist/
 build/
+.vercel/
+.npm-cache/
